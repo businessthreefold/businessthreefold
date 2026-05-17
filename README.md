@@ -1,126 +1,56 @@
 <div align="center">
 
-# Three Fold Digital
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,50:2CB67D,100:00C2FF&height=220&section=header&text=Three%20Fold%20Digital&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Modern%20Digital%20Solutions%20%7C%20Web%20Engineering&descAlignY=58"/>
 
-### Modern Digital Solutions & Web Engineering
+</div>
 
-<p>
-Building scalable, high-performance digital products with modern technologies and clean architecture.
-</p>
+<div align="center">
 
-<p>
 <a href="https://github.com/businessthreefold">
-<img src="https://img.shields.io/badge/GitHub-Organization-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GitHub-Organization-161B22?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/Status-Active-0A0A0A?style=for-the-badge">
-</a>
+<img src="https://img.shields.io/badge/Status-Active-7F5AF0?style=for-the-badge"/>
 
-<a href="#">
-<img src="https://img.shields.io/badge/Focus-Web%20Development-111827?style=for-the-badge">
-</a>
-</p>
+<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-00C2FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Architecture-Scalable%20Systems-2CB67D?style=for-the-badge"/>
 
 </div>
 
 ---
 
-## <i class="fas fa-building"></i> About
+# <img src="https://cdn-icons-png.flaticon.com/512/1828/1828919.png" width="22"/> About Us
 
-Three Fold Digital is a modern web development company focused on delivering scalable digital solutions, responsive interfaces, and production-ready applications for businesses and startups.
+Three Fold Digital is a modern software and web development company focused on building scalable digital products, business platforms, and high-performance web applications.
 
-We specialize in building modern web experiences with strong attention to performance, maintainability, and clean user interfaces.
-
----
-
-## <i class="fas fa-code"></i> Core Services
-
-- Full Stack Web Development
-- MERN Stack Applications
-- Admin Dashboards
-- Business Websites
-- E-Commerce Platforms
-- UI/UX Focused Interfaces
-- REST API Development
-- Responsive Web Solutions
+We combine clean architecture, modern UI/UX, and scalable backend systems to create reliable digital experiences for businesses and startups.
 
 ---
 
-## <i class="fas fa-layer-group"></i> Technology Stack
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,redux,vite" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
-</p>
-
-### Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,vercel,netlify" />
-</p>
-
----
-
-## <i class="fas fa-briefcase"></i> Current Focus
-
-- Building scalable client solutions
-- Developing modern digital products
-- Expanding portfolio projects
-- Delivering optimized web experiences
-- Creating future-ready software systems
-
----
-
-## <i class="fas fa-folder-open"></i> Featured Projects
-
-| Project | Description |
-|---|---|
-| Agency Portfolio | Professional company portfolio platform |
-| Admin Dashboard | Analytics and management dashboard |
-| E-Commerce Platform | Modern responsive shopping platform |
-| Event Management System | Event handling and booking solution |
-
----
-
-## <i class="fas fa-users"></i> Team
+# <img src="https://cdn-icons-png.flaticon.com/512/1006/1006363.png" width="22"/> Core Services
 
 <table>
 <tr>
-<td align="center">
+<td width="50%">
 
-### Akshat
-
-Frontend & Full Stack Development
-
-</td>
-
-<td align="center">
-
-### Chetan
-
-Backend & System Architecture
+### Frontend Development
+- React Applications
+- Responsive Interfaces
+- Tailwind CSS
+- Dashboard Systems
+- Landing Pages
 
 </td>
 
-<td align="center">
+<td width="50%">
 
-### Pranav
-
-UI/UX & Project Management
+### Backend Development
+- REST APIs
+- Authentication Systems
+- Database Architecture
+- Node.js & Express
+- Scalable Infrastructure
 
 </td>
 </tr>
@@ -128,36 +58,93 @@ UI/UX & Project Management
 
 ---
 
-## <i class="fas fa-chart-line"></i> Development Activity
+# <img src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png" width="22"/> Technology Stack
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=businessthreefold&show_icons=true&theme=transparent&hide_border=true" />
+### Frontend
 
-<br/>
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,redux,vite"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=businessthreefold&theme=transparent&hide_border=true" />
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+
+### Database
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql"/>
+
+### Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel,netlify,vscode"/>
 
 </div>
 
 ---
 
-## <i class="fas fa-link"></i> Connect
+# <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="22"/> Current Focus
 
-<p align="left">
+<div align="center">
+
+| Development Areas | Current Direction |
+|---|---|
+| Client Projects | Modern scalable business solutions |
+| Web Platforms | Full stack application systems |
+| UI/UX | Responsive modern interfaces |
+| Future Vision | Product-based software systems |
+
+</div>
+
+---
+
+# <img src="https://cdn-icons-png.flaticon.com/512/1157/1157109.png" width="22"/> Featured Projects
+
+<div align="center">
+
+| Project | Description |
+|---|---|
+| Agency Portfolio | Professional company portfolio platform |
+| Admin Dashboard | Analytics and management dashboard |
+| E-Commerce Platform | Full stack commerce solution |
+| Event Management System | Event handling and booking platform |
+
+</div>
+
+---
+
+# <img src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png" width="22"/> Development Analytics
+
+<div align="center">
+
+<div align="center">
+
+<img width="48%" src="https://github-profile-trophy.vercel.app/?username=AkshatShukla22&theme=tokyonight&no-frame=true&row=1&column=3"/>
+
+<img width="48%" src="https://streak-stats.demolab.com?user=AkshatShukla22&theme=tokyonight&hide_border=true"/>
+
+</div>
+<br/>
+
+<img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=businessthreefold&bg_color=0D1117&color=7F5AF0&line=00C2FF&point=2CB67D&hide_border=true"/>
+
+</div>
+
+---
+
+# <img src="https://cdn-icons-png.flaticon.com/512/3178/3178158.png" width="22"/> Connect
+
+<div align="center">
 
 <a href="https://github.com/businessthreefold">
-GitHub Organization
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-### Three Fold Digital
-
-Modern Web Engineering • Scalable Systems • Digital Solutions
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,50:7F5AF0,100:2CB67D&height=120&section=footer"/>
 
 </div>
